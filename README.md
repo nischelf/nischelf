@@ -14,6 +14,9 @@
         "NodeJS",
         "React",
         "NextJS",
+        "Astro",
+        "Svelte",
+        "TypeScript",
         "Bash",
         "Lua"
     ]
