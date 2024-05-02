@@ -4,6 +4,8 @@
     knowledge: [
         "HTML/CSS",
         "JavaScript",
+        "ReactJS",
+        "ExpressJS"
         "PHP",
         "Laravel",
         "TailwindCSS",
@@ -12,8 +14,8 @@
     ],
     learning: [
         "NodeJS",
-        "React",
         "NextJS",
+        "Prisma",
         "Astro",
         "Svelte",
         "TypeScript",
