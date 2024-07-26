@@ -5,7 +5,10 @@
         "HTML/CSS",
         "JavaScript",
         "ReactJS",
+        "NextJS",
+        "Astro"
         "ExpressJS"
+        "Prisma",
         "PHP",
         "Laravel",
         "TailwindCSS",
@@ -14,9 +17,6 @@
     ],
     learning: [
         "NodeJS",
-        "NextJS",
-        "Prisma",
-        "Astro",
         "Svelte",
         "TypeScript",
         "Bash",
