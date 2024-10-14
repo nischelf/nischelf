@@ -13,14 +13,14 @@
         "Laravel",
         "TailwindCSS",
         "LessCSS",
-        "Docker"
+        "Docker",
+        "Lua"
     ],
     learning: [
         "NodeJS",
         "Svelte",
         "TypeScript",
-        "Bash",
-        "Lua"
+        "NestJS"
     ]
 }
 ```
