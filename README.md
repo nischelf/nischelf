@@ -4,23 +4,24 @@
     knowledge: [
         "HTML/CSS",
         "JavaScript",
+        "TypeScript",
         "ReactJS",
+        "Svelte",
         "NextJS",
         "Astro"
-        "ExpressJS"
+        "ExpressJS",
+        "NestJS",
         "Prisma",
         "PHP",
         "Laravel",
         "TailwindCSS",
         "LessCSS",
         "Docker",
-        "Lua"
+        "Lua",
     ],
     learning: [
         "NodeJS",
-        "Svelte",
-        "TypeScript",
-        "NestJS"
+        "Python"
     ]
 }
 ```
