@@ -5,6 +5,7 @@
         "HTML/CSS",
         "JavaScript",
         "TypeScript",
+        "NodeJS",
         "ReactJS",
         "Svelte",
         "NextJS",
@@ -20,7 +21,6 @@
         "Lua",
     ],
     learning: [
-        "NodeJS",
         "Python"
     ]
 }
