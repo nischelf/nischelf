@@ -21,7 +21,7 @@
         "Lua",
     ],
     learning: [
-        "Python"
+        "C"
     ]
 }
 ```
