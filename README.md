@@ -1,27 +1,14 @@
-```JS
-{
-    name: "Fabian",
-    knowledge: [
-        "HTML/CSS",
-        "JavaScript",
-        "TypeScript",
-        "NodeJS",
-        "ReactJS",
-        "Svelte",
-        "NextJS",
-        "Astro"
-        "ExpressJS",
-        "NestJS",
-        "Prisma",
-        "PHP",
-        "Laravel",
-        "TailwindCSS",
-        "LessCSS",
-        "Docker",
-        "Lua",
-    ],
-    learning: [
-        "C"
-    ]
-}
-```
+*Hey yo*, I'm Fabian.
+
+I like Problem Solving and focus on Web Application Development.
+
+Would like to dive into Embedded/IoT.
+
+---
+**Knowledge:**
+
+* TS, AstroJS, Svelte, NextJS, React, PHP/Laravel
+
+* Docker, GCP, Bash, C
+
+* Postgresql, MySql
