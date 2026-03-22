@@ -1,14 +1,19 @@
-*Hey yo*, I'm Fabian.
+# *Hey yo*, I'm Fabian.
 
-I like Problem Solving and focus on Web Application Development.
+I enjoy simplifying complex problems through code and automation.
+Also a strong curiosity for learning new technologies and understanding how systems work under the hood
 
 Would like to dive into Embedded/IoT.
 
 ---
-**Knowledge:**
+## Knowledge:
 
-* TS, AstroJS, Svelte, NextJS, React, PHP/Laravel
+ - **Web:** JS/TS, AstroJS, Svelte, NextJS, React, TailwindCSS
 
-* Docker, GCP, Bash, C
+ - **Cloud** Docker, GCP
 
-* Postgresql, MySql
+ - **DBs:** Postgresql, MySql, SqLite
+
+ - **Other:** Supabase, Lua, Bash, Linux
+
+ - **Learning:** C
